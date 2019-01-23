@@ -1,3 +1,27 @@
-# Ionic 3 Start Theme
+# Ionic App for payment integration
 
-Ionic 3 Start Theme with 10 Pages, mock data, providers samples, Storage, Http and more...
+Project setup
+
+#Install Ionic and cordova globally
+
+npm install -g cordova
+npm install -g ionic
+
+#steps to run the project in browser
+
+npm install 
+ionic serve -l 
+
+#steps to run in android emulator
+
+ionic cordova platform add android
+ionic cordova platfrom add ios
+
+#steps to add resources
+
+ionic cordova resources android
+ionic cordova resources ios
+
+
+
+
