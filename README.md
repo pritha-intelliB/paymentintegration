@@ -15,13 +15,13 @@ ionic serve -l
 
 #steps to run in android emulator
 
-ionic cordova platform add android
-ionic cordova platfrom add ios
+-ionic cordova platform add android,
+-ionic cordova platfrom add ios
 
 #steps to add resources
 
-ionic cordova resources android
-ionic cordova resources ios
+-ionic cordova resources android
+-ionic cordova resources ios
 
 
 
