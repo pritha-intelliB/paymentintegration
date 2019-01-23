@@ -4,8 +4,9 @@ Project setup
 
 #Install Ionic and cordova globally
 
-npm install -g cordova
-npm install -g ionic
+-npm install -g cordova,
+
+-npm install -g ionic
 
 #steps to run the project in browser
 
